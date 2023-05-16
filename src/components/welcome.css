@@ -1,0 +1,16 @@
+.welcome{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: rgb(244, 248, 248);
+}
+.welcomeCard{
+    background-color: salmon;
+    height: 250px;
+    display: flex;
+    padding: auto;
+    padding-top: 77px;
+}
+.welcomeCard p{
+    font-size: 20px;
+}
